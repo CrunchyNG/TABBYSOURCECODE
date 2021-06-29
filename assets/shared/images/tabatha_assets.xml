@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tabatha_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TABBY DOWN0000" x="0" y="0" width="793" height="669" frameX="180" frameY="-114" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0001" x="0" y="0" width="793" height="669" frameX="180" frameY="-114" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0002" x="793" y="0" width="741" height="693" frameX="152" frameY="-90" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0003" x="793" y="0" width="741" height="693" frameX="152" frameY="-90" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0004" x="1534" y="0" width="745" height="685" frameX="156" frameY="-94" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0005" x="1534" y="0" width="745" height="685" frameX="156" frameY="-94" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0006" x="2279" y="0" width="745" height="689" frameX="156" frameY="-94" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0007" x="2279" y="0" width="745" height="689" frameX="156" frameY="-94" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0008" x="3024" y="0" width="749" height="681" frameX="160" frameY="-98" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0009" x="3024" y="0" width="749" height="681" frameX="160" frameY="-98" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY DOWN0010" x="3024" y="0" width="749" height="681" frameX="160" frameY="-98" frameWidth="52" frameHeight="673"/>
+	<SubTexture name="TABBY IDLE0000" x="3773" y="0" width="615" height="945" frameX="140" frameY="159" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0001" x="3773" y="0" width="615" height="945" frameX="140" frameY="159" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0002" x="3773" y="0" width="615" height="945" frameX="140" frameY="159" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0003" x="4388" y="0" width="501" height="1005" frameX="167" frameY="218" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0004" x="4388" y="0" width="501" height="1005" frameX="167" frameY="218" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0005" x="4889" y="0" width="500" height="1017" frameX="207" frameY="230" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0006" x="4889" y="0" width="500" height="1017" frameX="207" frameY="230" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0007" x="5389" y="0" width="681" height="1001" frameX="259" frameY="214" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0008" x="5389" y="0" width="681" height="1001" frameX="259" frameY="214" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0009" x="5389" y="0" width="681" height="1001" frameX="259" frameY="214" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0010" x="6070" y="0" width="725" height="861" frameX="83" frameY="74" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0011" x="6070" y="0" width="725" height="861" frameX="83" frameY="74" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0012" x="6795" y="0" width="701" height="865" frameX="91" frameY="78" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY IDLE0013" x="6795" y="0" width="701" height="865" frameX="91" frameY="78" frameWidth="901" frameHeight="1017"/>
+	<SubTexture name="TABBY LEFT0000" x="0" y="1017" width="713" height="825" frameX="442" frameY="56" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0001" x="0" y="1017" width="713" height="825" frameX="442" frameY="56" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0002" x="713" y="1017" width="733" height="825" frameX="442" frameY="56" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0003" x="713" y="1017" width="733" height="825" frameX="442" frameY="56" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0004" x="1446" y="1017" width="736" height="821" frameX="450" frameY="52" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0005" x="1446" y="1017" width="736" height="821" frameX="450" frameY="52" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0006" x="2182" y="1017" width="724" height="825" frameX="446" frameY="60" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0007" x="2182" y="1017" width="724" height="825" frameX="446" frameY="60" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY LEFT0008" x="2906" y="1017" width="732" height="825" frameX="446" frameY="56" frameWidth="741" frameHeight="829"/>
+	<SubTexture name="TABBY RIGHT0000" x="3638" y="1017" width="553" height="813" frameX="50" frameY="22" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0001" x="3638" y="1017" width="553" height="813" frameX="50" frameY="22" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0002" x="4191" y="1017" width="533" height="821" frameX="42" frameY="30" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0003" x="4191" y="1017" width="533" height="821" frameX="42" frameY="30" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0004" x="4724" y="1017" width="525" height="821" frameX="30" frameY="30" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0005" x="4724" y="1017" width="525" height="821" frameX="30" frameY="30" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0006" x="5249" y="1017" width="521" height="817" frameX="30" frameY="26" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0007" x="5249" y="1017" width="521" height="817" frameX="30" frameY="26" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0008" x="5770" y="1017" width="521" height="817" frameX="30" frameY="26" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0009" x="5770" y="1017" width="521" height="817" frameX="30" frameY="26" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY RIGHT0010" x="5770" y="1017" width="521" height="817" frameX="30" frameY="26" frameWidth="553" frameHeight="821"/>
+	<SubTexture name="TABBY UP0000" x="6291" y="1017" width="753" height="865" frameX="312" frameY="100" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0001" x="6291" y="1017" width="753" height="865" frameX="312" frameY="100" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0002" x="7044" y="1017" width="757" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0003" x="7044" y="1017" width="757" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0004" x="0" y="1882" width="757" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0005" x="0" y="1882" width="757" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0006" x="757" y="1882" width="753" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0007" x="757" y="1882" width="753" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0008" x="1510" y="1882" width="752" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0009" x="1510" y="1882" width="752" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+	<SubTexture name="TABBY UP0010" x="1510" y="1882" width="752" height="849" frameX="320" frameY="84" frameWidth="761" frameHeight="865"/>
+</TextureAtlas>

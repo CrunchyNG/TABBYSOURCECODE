@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bf_and_Gf_talking.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFdesolate0000" x="1274" y="872" width="305" height="364"/>
+	<SubTexture name="GFdesolate0001" x="1274" y="872" width="305" height="364"/>
+	<SubTexture name="GFdesolate0002" x="1274" y="872" width="305" height="364"/>
+	<SubTexture name="GFdesolate0003" x="1274" y="872" width="305" height="364"/>
+	<SubTexture name="GFdesolate0004" x="1274" y="872" width="305" height="364"/>
+	<SubTexture name="GFdesolate0005" x="1274" y="872" width="305" height="364"/>
+	<SubTexture name="GFtalk bruh0000" x="1592" y="872" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk bruh0001" x="1592" y="872" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk bruh0002" x="1907" y="872" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk bruh0003" x="1907" y="872" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk bruh0004" x="2227" y="872" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk bruh0005" x="2545" y="872" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk happy0000" x="2863" y="872" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk happy0001" x="2863" y="872" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk happy0002" x="3178" y="872" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk happy0003" x="3178" y="872" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk happy0004" x="3498" y="872" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk happy0005" x="10" y="1303" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk norm0000" x="328" y="1303" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk norm0001" x="328" y="1303" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk norm0002" x="643" y="1303" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk norm0003" x="643" y="1303" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk norm0004" x="963" y="1303" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk norm0005" x="1281" y="1303" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk sad0000" x="1599" y="1303" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk sad0001" x="1599" y="1303" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk sad0002" x="1914" y="1303" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk sad0003" x="1914" y="1303" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk sad0004" x="2234" y="1303" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk sad0005" x="2552" y="1303" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk surprised0000" x="2870" y="1303" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk surprised0001" x="2870" y="1303" width="302" height="374" frameX="-3" frameY="0" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk surprised0002" x="3185" y="1303" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk surprised0003" x="3185" y="1303" width="307" height="354" frameX="0" frameY="-11" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk surprised0004" x="3505" y="1303" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="GFtalk surprised0005" x="10" y="1690" width="305" height="364" frameX="-6" frameY="-6" frameWidth="311" frameHeight="374"/>
+	<SubTexture name="bf and gf desolate0000" x="10" y="10" width="600" height="404"/>
+	<SubTexture name="bf and gf lovey dovey0000" x="623" y="10" width="447" height="412" frameX="-6" frameY="0" frameWidth="466" frameHeight="412"/>
+	<SubTexture name="bf and gf lovey dovey0001" x="623" y="10" width="447" height="412" frameX="-6" frameY="0" frameWidth="466" frameHeight="412"/>
+	<SubTexture name="bf and gf lovey dovey0002" x="1083" y="10" width="458" height="395" frameX="-3" frameY="-15" frameWidth="466" frameHeight="412"/>
+	<SubTexture name="bf and gf lovey dovey0003" x="1083" y="10" width="458" height="395" frameX="-3" frameY="-15" frameWidth="466" frameHeight="412"/>
+	<SubTexture name="bf and gf lovey dovey0004" x="1554" y="10" width="466" height="404" frameX="0" frameY="-7" frameWidth="466" frameHeight="412"/>
+	<SubTexture name="bf and gf lovey dovey0005" x="1554" y="10" width="466" height="404" frameX="0" frameY="-7" frameWidth="466" frameHeight="412"/>
+	<SubTexture name="bf desolate0000" x="2033" y="10" width="416" height="404"/>
+	<SubTexture name="bf desolate0001" x="2033" y="10" width="416" height="404"/>
+	<SubTexture name="bf desolate0002" x="2033" y="10" width="416" height="404"/>
+	<SubTexture name="bf desolate0003" x="2033" y="10" width="416" height="404"/>
+	<SubTexture name="bf desolate0004" x="2033" y="10" width="416" height="404"/>
+	<SubTexture name="bf desolate0005" x="2033" y="10" width="416" height="404"/>
+	<SubTexture name="bf sad0000" x="2462" y="10" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf sad0001" x="2462" y="10" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf sad0002" x="2878" y="10" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf sad0003" x="2878" y="10" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf sad0004" x="3297" y="10" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf sad0005" x="3297" y="10" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf suprised0000" x="10" y="441" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf suprised0001" x="10" y="441" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf suprised0002" x="426" y="441" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf suprised0003" x="426" y="441" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf suprised0004" x="845" y="441" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf suprised0005" x="845" y="441" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk bruh0000" x="1274" y="441" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk bruh0001" x="1274" y="441" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk bruh0002" x="1690" y="441" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk bruh0003" x="1690" y="441" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk bruh0004" x="2109" y="441" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk bruh0005" x="2109" y="441" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk eyes closed0000" x="2538" y="441" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk eyes closed0001" x="2538" y="441" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk eyes closed0002" x="2954" y="441" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk eyes closed0003" x="2954" y="441" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk eyes closed0004" x="3373" y="441" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk eyes closed0005" x="3373" y="441" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk normal0000" x="10" y="872" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk normal0001" x="10" y="872" width="403" height="418" frameX="-2" frameY="0" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk normal0002" x="426" y="872" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk normal0003" x="426" y="872" width="406" height="411" frameX="-3" frameY="-6" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk normal0004" x="845" y="872" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+	<SubTexture name="bf talk normal0005" x="845" y="872" width="416" height="404" frameX="0" frameY="-12" frameWidth="416" frameHeight="418"/>
+</TextureAtlas>
